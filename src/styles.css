@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todoRender{
+  display: flex;
+  justify-content: center;
+  padding:10px;
+}
+
+.todoRender>button{
+  margin-left: 20px;
+  margin-top: 12px;
+  height: 30px;
+}
+
+
